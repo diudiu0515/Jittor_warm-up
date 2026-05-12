@@ -1,4 +1,4 @@
-# PCT_jittor
+# Jittor_warm-up_contest
 
 A Jittor implementation of Point Cloud Transformer (PCT) for ModelNet40 classification.
 
@@ -18,6 +18,8 @@ This project implements Point Cloud Transformer (PCT) using the Jittor deep lear
 conda create -n pa3 python=3.10 -y
 conda activate pa3
 pip install jittor
+
+```
 
 ## Usage
 
